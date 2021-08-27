@@ -8,25 +8,25 @@
           {
             id: 1,
             name: 'Brown Brim',
-            imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+            imageUrl: 'https://3.bp.blogspot.com/-blhkUiLX0Qs/V2payZwdbrI/AAAAAAAACVc/ULWvhD082akWJ2E3Pu4pDOF0kb8brYRQwCLcB/s1600/Samantha%2Bbikini.png',
             price: 25
           },
           {
             id: 2,
             name: 'Blue Beanie',
-            imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+            imageUrl: 'https://im.indiatimes.in/content/itimes/blog/2014/Jun/3/1401811827_sunny-leone-hot-sexy-unseen-pics-collection.jpg',
             price: 18
           },
           {
             id: 3,
             name: 'Brown Cowboy',
-            imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+            imageUrl: 'https://www.santabanta.com/images/wallpapers/celebrities/model-heena-harwani-looks-amorous-in-bikini_1024-768.jpg',
             price: 35
           },
           {
             id: 4,
             name: 'Grey Brim',
-            imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+            imageUrl: 'https://live.staticflickr.com/8182/7914241772_b47ce8c08f_z.jpg',
             price: 25
           },
           {
@@ -69,25 +69,25 @@
           {
             id: 1,
             name: 'Adidas NMD',
-            imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+            imageUrl: 'https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/sherlyn-chopras-super-sexy-picture-201610-1477568900.jpg',
             price: 220
           },
           {
             id: 2,
             name: 'Adidas Yeezy',
-            imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+            imageUrl: 'http://4.bp.blogspot.com/-Xz0_8YI25PU/T5zQ27jau2I/AAAAAAAArdE/UYdZ9zuzwM4/s1600/Poonam+Pandey+bikini+Hot+unseen+magazine+scan+sabhotcom654+%25281%2529.jpg',
             price: 280
           },
           {
             id: 3,
             name: 'Black Converse',
-            imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+            imageUrl: 'https://st1.bollywoodlife.com/wp-content/uploads/2021/08/Mouni-Roy-bikini-5.jpg',
             price: 110
           },
           {
             id: 4,
             name: 'Nike White AirForce',
-            imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+            imageUrl: 'http://www.snapperbazaar.com/wp-content/uploads/2015/11/kareena-kapoor-hot-bikini-images-3.jpg',
             price: 160
           },
           {
@@ -124,25 +124,25 @@
           {
             id: 1,
             name: 'Black Jean Shearling',
-            imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+            imageUrl: 'https://www.ulikes.in/web-app/users_data/95/exams_data/images/uLikes1573621738k95y1169.jpg',
             price: 125
           },
           {
             id: 2,
             name: 'Blue Jean Jacket',
-            imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+            imageUrl: 'https://i.pinimg.com/originals/6f/de/42/6fde42778e9a60c5dcf066624159c195.jpg',
             price: 90
           },
           {
             id: 3,
             name: 'Grey Jean Jacket',
-            imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+            imageUrl: 'https://mcmscache.epapr.in/post_images/website_197/post_12584204/thumb.jpg',
             price: 90
           },
           {
             id: 4,
             name: 'Brown Shearling',
-            imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+            imageUrl: 'https://qph.fs.quoracdn.net/main-qimg-b01e2290352276259ae2689736b6fba4',
             price: 165
           },
           {
@@ -161,25 +161,25 @@
           {
             id: 1,
             name: 'Blue Tanktop',
-            imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+            imageUrl: 'https://stat2.bollywoodhungama.in/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-04-at-2.31.35-PM.jpeg',
             price: 25
           },
           {
             id: 2,
             name: 'Floral Blouse',
-            imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+            imageUrl: 'https://pbs.twimg.com/media/EHX8sFTUcAE19kc.jpg',
             price: 20
           },
           {
             id: 3,
             name: 'Floral Dress',
-            imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+            imageUrl: 'https://i.pinimg.com/originals/c1/43/be/c143beecb908744f26c600130472c637.jpg',
             price: 80
           },
           {
             id: 4,
             name: 'Red Dots Dress',
-            imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+            imageUrl: 'https://i.pinimg.com/originals/8a/86/de/8a86de52c96b07c4967c36dc9bb1227b.jpg',
             price: 80
           },
           {
@@ -210,25 +210,25 @@
           {
             id: 1,
             name: 'Camo Down Vest',
-            imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
+            imageUrl: 'https://www.preetlari.com/wp-content/uploads/2021/02/196-1969554_kajal-aggarwal-hottest-bikini-photos-south-actress-hd.jpg',
             price: 325
           },
           {
             id: 2,
             name: 'Floral T-shirt',
-            imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+            imageUrl: 'https://s3.us-east-2.amazonaws.com/partiko.io/img/desikaamukkahani-actress-preity-zinta-in-bra-panty-jaud3goh-1536402834025.png',
             price: 20
           },
           {
             id: 3,
             name: 'Black & White Longsleeve',
-            imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
+            imageUrl: 'https://i.pinimg.com/originals/b8/bb/cb/b8bbcbdb3c54cc51eb4cc5e3a3aa6974.jpg',
             price: 25
           },
           {
             id: 4,
             name: 'Pink T-shirt',
-            imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
+            imageUrl: 'https://i.pinimg.com/originals/23/9b/15/239b158bd9124a2f1a7ea01a9822bc8e.jpg',
             price: 25
           },
           {
@@ -241,6 +241,130 @@
             id: 6,
             name: 'Burgundy T-shirt',
             imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+            price: 25
+          }
+        ]
+      },
+      {
+        id: 6,
+        title: 'New',
+        routeName: 'new',
+        items: [
+          {
+            id: 1,
+            name: 'China female',
+            imageUrl: 'https://ae01.alicdn.com/kf/Hb48831d98e3d4d5a95bab4df934c54d8j/South-Korea-Bikini-Bathing-Suit-Women-s-Solid-Color-Size-Chest-Push-up-Sexy-Bikini-Online.jpg',
+            price: 325
+          },
+          {
+            id: 2,
+            name: 'Vidya balan',
+            imageUrl: 'https://i.pinimg.com/originals/f3/77/ff/f377ffefd8430b160b21a1d36007a975.jpg',
+            price: 20
+          },
+          {
+            id: 3,
+            name: 'Black & White Longsleeve',
+            imageUrl: 'https://i.pinimg.com/originals/f8/9a/9d/f89a9d9ed22df02c84fcd45af8b0e2e0.jpg',
+            price: 25
+          },
+          {
+            id: 4,
+            name: 'Pink T-shirt',
+            imageUrl: 'https://i.pinimg.com/474x/ab/9f/ee/ab9feebaeb53c3a494f10563cf7303d5.jpg',
+            price: 25
+          }
+        ]
+      },
+      {
+        id: 7,
+        title: 'New Stock',
+        routeName: 'newstock',
+        items: [
+          {
+            id: 1,
+            name: 'Jacklin',
+            imageUrl: 'https://pbs.twimg.com/media/DOlP4aCW4AAh45j.jpg',
+            price: 325
+          },
+          {
+            id: 2,
+            name: 'Mast',
+            imageUrl: 'https://st1.bollywoodlife.com/wp-content/uploads/2016/04/sunny-leone_134258359016.jpg',
+            price: 20
+          },
+          {
+            id: 3,
+            name: 'Black & White Longsleeve',
+            imageUrl: 'https://img15.pixhost.to/images/477/60313757_shamita-shetty_000_shamita_shetty_5_bigthumb_.jpg',
+            price: 25
+          },
+          {
+            id: 4,
+            name: 'Pink T-shirt',
+            imageUrl: 'http://2.bp.blogspot.com/_XmYwA_GdPeo/TSCalgnejHI/AAAAAAAANhc/Skc84GlJpeI/s1600/Shweta-Tiwari-sexy-bikini-photoshoot.jpg',
+            price: 25
+          }
+        ]
+      },
+      {
+        id: 8,
+        title: 'All Mix',
+        routeName: 'allmix',
+        items: [
+          {
+            id: 1,
+            name: 'Jacklin',
+            imageUrl: 'https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/hot-south-actress-keerthy-suresh-202104-1617533311.jpg',
+            price: 325
+          },
+          {
+            id: 2,
+            name: 'Mast',
+            imageUrl: 'https://i.pinimg.com/originals/12/7f/61/127f61cc072ad162ffccee3af712b98c.jpg',
+            price: 20
+          },
+          {
+            id: 3,
+            name: 'Black & White Longsleeve',
+            imageUrl: 'https://mallurepost.com/upload/2021/04/03/Bollywood-actress-Bikini-hot-photos-gallery-Veena-Malik-latest-hot-photos-gallery--85377.jpg',
+            price: 25
+          },
+          {
+            id: 4,
+            name: 'Pink T-shirt',
+            imageUrl: 'https://allaboutactressvideo.files.wordpress.com/2019/08/d1b98-south-model-parvathy-omanakuttan-hot-bikini-stills2b252812529.jpg',
+            price: 25
+          }
+        ]
+      },
+      {
+        id: 9,
+        title: 'Top Mix',
+        routeName: 'topmix',
+        items: [
+          {
+            id: 1,
+            name: 'Jacklin',
+            imageUrl: 'https://www.indiaherald.com/ImageStore/images/movies/movies-sizzlers/south-indian-actress-in-hot-bikini-photos17.jpg',
+            price: 32
+          },
+          {
+            id: 2,
+            name: 'Mast',
+            imageUrl: 'https://southindianactress.in/wp-content/uploads/2020/06/Sanam-Shetty-Bikini-photos-21-480x720.jpg',
+            price: 80
+          },
+          {
+            id: 3,
+            name: 'Black & White Longsleeve',
+            imageUrl: 'https://i2.wp.com/indiancelebblog.com/wp-content/uploads/2021/07/Lakshmi-rai-tamil-actress-ss1-5-hot-swimsuit-stills.jpg?ssl=1',
+            price: 25
+          },
+          {
+            id: 4,
+            name: 'Pink T-shirt',
+            imageUrl: 'https://2.bp.blogspot.com/--w5w_MVYB00/W2v08zQLpNI/AAAAAAABN-0/mml5ChAD6BYG2nGkogIzVL1G_tTFPTg7QCPcBGAYYCw/s1600/Reshmi+Nair+Stunning+Beautiful+Dusky+South+Model+Actress+in+Bikini+Lingerie+~+CelebsNext.xyz+Exclusive+Celebrity+Pics+007.jpg',
             price: 25
           }
         ]
