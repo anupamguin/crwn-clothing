@@ -37,7 +37,9 @@ const Header = ({ currentUser }) => (
 );
 
 const mapStateToProps = (state) => ({
-  //here state is rootreducer
+  //here state is rootreducer , mapStateToProps and connect is use anywhere
+  //we need properties from our reducers . connect is higher order component
+
   currentUser: state.user.currentUser,
 });
 export default connect(mapStateToProps)(Header);
