@@ -263,145 +263,145 @@ const SHOP_DATA = {
       },
     ],
   },
-  new: {
-    id: 6,
-    title: "New",
-    routeName: "new",
-    items: [
-      {
-        id: 36,
-        name: "China female",
-        imageUrl:
-          "https://ae01.alicdn.com/kf/Hb48831d98e3d4d5a95bab4df934c54d8j/South-Korea-Bikini-Bathing-Suit-Women-s-Solid-Color-Size-Chest-Push-up-Sexy-Bikini-Online.jpg",
-        price: 325,
-      },
-      {
-        id: 37,
-        name: "Vidya balan",
-        imageUrl:
-          "https://i.pinimg.com/originals/f3/77/ff/f377ffefd8430b160b21a1d36007a975.jpg",
-        price: 20,
-      },
-      {
-        id: 38,
-        name: "Black & White Longsleeve",
-        imageUrl:
-          "https://i.pinimg.com/originals/f8/9a/9d/f89a9d9ed22df02c84fcd45af8b0e2e0.jpg",
-        price: 25,
-      },
-      {
-        id: 39,
-        name: "Pink T-shirt",
-        imageUrl:
-          "https://i.pinimg.com/474x/ab/9f/ee/ab9feebaeb53c3a494f10563cf7303d5.jpg",
-        price: 25,
-      },
-    ],
-  },
-  newstock: {
-    id: 7,
-    title: "New Stock",
-    routeName: "newstock",
-    items: [
-      {
-        id: 40,
-        name: "Jacklin",
-        imageUrl: "https://pbs.twimg.com/media/DOlP4aCW4AAh45j.jpg",
-        price: 325,
-      },
-      {
-        id: 41,
-        name: "Mast",
-        imageUrl:
-          "https://st1.bollywoodlife.com/wp-content/uploads/2016/04/sunny-leone_134258359016.jpg",
-        price: 20,
-      },
-      {
-        id: 42,
-        name: "Black & White Longsleeve",
-        imageUrl:
-          "https://img15.pixhost.to/images/477/60313757_shamita-shetty_000_shamita_shetty_5_bigthumb_.jpg",
-        price: 25,
-      },
-      {
-        id: 43,
-        name: "Pink T-shirt",
-        imageUrl:
-          "http://2.bp.blogspot.com/_XmYwA_GdPeo/TSCalgnejHI/AAAAAAAANhc/Skc84GlJpeI/s1600/Shweta-Tiwari-sexy-bikini-photoshoot.jpg",
-        price: 25,
-      },
-    ],
-  },
-  allmix: {
-    id: 8,
-    title: "All Mix",
-    routeName: "allmix",
-    items: [
-      {
-        id: 44,
-        name: "Jacklin",
-        imageUrl:
-          "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/hot-south-actress-keerthy-suresh-202104-1617533311.jpg",
-        price: 325,
-      },
-      {
-        id: 45,
-        name: "Mast",
-        imageUrl:
-          "https://i.pinimg.com/originals/12/7f/61/127f61cc072ad162ffccee3af712b98c.jpg",
-        price: 20,
-      },
-      {
-        id: 46,
-        name: "Black & White Longsleeve",
-        imageUrl:
-          "https://mallurepost.com/upload/2021/04/03/Bollywood-actress-Bikini-hot-photos-gallery-Veena-Malik-latest-hot-photos-gallery--85377.jpg",
-        price: 25,
-      },
-      {
-        id: 47,
-        name: "Pink T-shirt",
-        imageUrl:
-          "https://allaboutactressvideo.files.wordpress.com/2019/08/d1b98-south-model-parvathy-omanakuttan-hot-bikini-stills2b252812529.jpg",
-        price: 25,
-      },
-    ],
-  },
-  topmix: {
-    id: 9,
-    title: "Top Mix",
-    routeName: "topmix",
-    items: [
-      {
-        id: 48,
-        name: "Jacklin",
-        imageUrl:
-          "https://www.indiaherald.com/ImageStore/images/movies/movies-sizzlers/south-indian-actress-in-hot-bikini-photos17.jpg",
-        price: 32,
-      },
-      {
-        id: 49,
-        name: "Mast",
-        imageUrl:
-          "https://southindianactress.in/wp-content/uploads/2020/06/Sanam-Shetty-Bikini-photos-21-480x720.jpg",
-        price: 80,
-      },
-      {
-        id: 50,
-        name: "Black & White Longsleeve",
-        imageUrl:
-          "https://i2.wp.com/indiancelebblog.com/wp-content/uploads/2021/07/Lakshmi-rai-tamil-actress-ss1-5-hot-swimsuit-stills.jpg?ssl=1",
-        price: 25,
-      },
-      {
-        id: 51,
-        name: "Pink T-shirt",
-        imageUrl:
-          "https://2.bp.blogspot.com/--w5w_MVYB00/W2v08zQLpNI/AAAAAAABN-0/mml5ChAD6BYG2nGkogIzVL1G_tTFPTg7QCPcBGAYYCw/s1600/Reshmi+Nair+Stunning+Beautiful+Dusky+South+Model+Actress+in+Bikini+Lingerie+~+CelebsNext.xyz+Exclusive+Celebrity+Pics+007.jpg",
-        price: 25,
-      },
-    ],
-  },
+  // new: {
+  //   id: 6,
+  //   title: "New",
+  //   routeName: "new",
+  //   items: [
+  //     {
+  //       id: 36,
+  //       name: "China female",
+  //       imageUrl:
+  //         "https://ae01.alicdn.com/kf/Hb48831d98e3d4d5a95bab4df934c54d8j/South-Korea-Bikini-Bathing-Suit-Women-s-Solid-Color-Size-Chest-Push-up-Sexy-Bikini-Online.jpg",
+  //       price: 325,
+  //     },
+  //     {
+  //       id: 37,
+  //       name: "Vidya balan",
+  //       imageUrl:
+  //         "https://i.pinimg.com/originals/f3/77/ff/f377ffefd8430b160b21a1d36007a975.jpg",
+  //       price: 20,
+  //     },
+  //     {
+  //       id: 38,
+  //       name: "Black & White Longsleeve",
+  //       imageUrl:
+  //         "https://i.pinimg.com/originals/f8/9a/9d/f89a9d9ed22df02c84fcd45af8b0e2e0.jpg",
+  //       price: 25,
+  //     },
+  //     {
+  //       id: 39,
+  //       name: "Pink T-shirt",
+  //       imageUrl:
+  //         "https://i.pinimg.com/474x/ab/9f/ee/ab9feebaeb53c3a494f10563cf7303d5.jpg",
+  //       price: 25,
+  //     },
+  //   ],
+  // },
+  // newstock: {
+  //   id: 7,
+  //   title: "New Stock",
+  //   routeName: "newstock",
+  //   items: [
+  //     {
+  //       id: 40,
+  //       name: "Jacklin",
+  //       imageUrl: "https://pbs.twimg.com/media/DOlP4aCW4AAh45j.jpg",
+  //       price: 325,
+  //     },
+  //     {
+  //       id: 41,
+  //       name: "Mast",
+  //       imageUrl:
+  //         "https://st1.bollywoodlife.com/wp-content/uploads/2016/04/sunny-leone_134258359016.jpg",
+  //       price: 20,
+  //     },
+  //     {
+  //       id: 42,
+  //       name: "Black & White Longsleeve",
+  //       imageUrl:
+  //         "https://img15.pixhost.to/images/477/60313757_shamita-shetty_000_shamita_shetty_5_bigthumb_.jpg",
+  //       price: 25,
+  //     },
+  //     {
+  //       id: 43,
+  //       name: "Pink T-shirt",
+  //       imageUrl:
+  //         "http://2.bp.blogspot.com/_XmYwA_GdPeo/TSCalgnejHI/AAAAAAAANhc/Skc84GlJpeI/s1600/Shweta-Tiwari-sexy-bikini-photoshoot.jpg",
+  //       price: 25,
+  //     },
+  //   ],
+  // },
+  // allmix: {
+  //   id: 8,
+  //   title: "All Mix",
+  //   routeName: "allmix",
+  //   items: [
+  //     {
+  //       id: 44,
+  //       name: "Jacklin",
+  //       imageUrl:
+  //         "https://st1.photogallery.ind.sh/wp-content/uploads/indiacom/hot-south-actress-keerthy-suresh-202104-1617533311.jpg",
+  //       price: 325,
+  //     },
+  //     {
+  //       id: 45,
+  //       name: "Mast",
+  //       imageUrl:
+  //         "https://i.pinimg.com/originals/12/7f/61/127f61cc072ad162ffccee3af712b98c.jpg",
+  //       price: 20,
+  //     },
+  //     {
+  //       id: 46,
+  //       name: "Black & White Longsleeve",
+  //       imageUrl:
+  //         "https://mallurepost.com/upload/2021/04/03/Bollywood-actress-Bikini-hot-photos-gallery-Veena-Malik-latest-hot-photos-gallery--85377.jpg",
+  //       price: 25,
+  //     },
+  //     {
+  //       id: 47,
+  //       name: "Pink T-shirt",
+  //       imageUrl:
+  //         "https://allaboutactressvideo.files.wordpress.com/2019/08/d1b98-south-model-parvathy-omanakuttan-hot-bikini-stills2b252812529.jpg",
+  //       price: 25,
+  //     },
+  //   ],
+  // },
+  // topmix: {
+  //   id: 9,
+  //   title: "Top Mix",
+  //   routeName: "topmix",
+  //   items: [
+  //     {
+  //       id: 48,
+  //       name: "Jacklin",
+  //       imageUrl:
+  //         "https://www.indiaherald.com/ImageStore/images/movies/movies-sizzlers/south-indian-actress-in-hot-bikini-photos17.jpg",
+  //       price: 32,
+  //     },
+  //     {
+  //       id: 49,
+  //       name: "Mast",
+  //       imageUrl:
+  //         "https://southindianactress.in/wp-content/uploads/2020/06/Sanam-Shetty-Bikini-photos-21-480x720.jpg",
+  //       price: 80,
+  //     },
+  //     {
+  //       id: 50,
+  //       name: "Black & White Longsleeve",
+  //       imageUrl:
+  //         "https://i2.wp.com/indiancelebblog.com/wp-content/uploads/2021/07/Lakshmi-rai-tamil-actress-ss1-5-hot-swimsuit-stills.jpg?ssl=1",
+  //       price: 25,
+  //     },
+  //     {
+  //       id: 51,
+  //       name: "Pink T-shirt",
+  //       imageUrl:
+  //         "https://2.bp.blogspot.com/--w5w_MVYB00/W2v08zQLpNI/AAAAAAABN-0/mml5ChAD6BYG2nGkogIzVL1G_tTFPTg7QCPcBGAYYCw/s1600/Reshmi+Nair+Stunning+Beautiful+Dusky+South+Model+Actress+in+Bikini+Lingerie+~+CelebsNext.xyz+Exclusive+Celebrity+Pics+007.jpg",
+  //       price: 25,
+  //     },
+  //   ],
+  // },
 };
 
 export default SHOP_DATA;
